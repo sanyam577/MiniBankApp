@@ -3,7 +3,7 @@ public class Palindrome {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-         String str1 = "NITIN";
+         String str1 = "2552";
          String str2 ="";
          
          for(int i=str1.length()-1; i>=0; i--) {

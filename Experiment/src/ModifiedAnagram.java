@@ -18,8 +18,7 @@ public class ModifiedAnagram {
 				else {
 					str3 = str3 + str1.charAt(i);
 				}
-		}
-		
+		    }
 		 System.out.println(str3);
 		 
 		 //String to character array
@@ -48,15 +47,7 @@ public class ModifiedAnagram {
 			}
 	       
 			System.out.println();
-	       
-	       
-	       
-	       
-	       
-	       
-	       
-	       
-	       
+	         
 	    System.out.println("Enter second string");
 	    String str2 = scan.nextLine();
 	    
@@ -98,24 +89,13 @@ public class ModifiedAnagram {
 	       
 			System.out.println();
 			
-			
-			
 				if(Arrays.equals(ch1, ch2)) {
 					System.out.println("its an Anagram");
 				}
 				else {
 					System.out.println("not an anagram");
 				}
-		
-	     
-	     
-	     
-	     
-	     
-	     
-	    
-		
-
+		 
 	}
 
 }
